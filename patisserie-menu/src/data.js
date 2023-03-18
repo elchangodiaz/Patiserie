@@ -1,18 +1,18 @@
 const menu = [
     {
         id: 1,
-        title: 'cake',
-        category: 'desayuno',
+        title: 'Pastel Fresas',
+        category: 'postre',
         price: 50,
-        img: './images/cake.jpeg',
+        img: './images/cake.png',
         desc: 'Pastel de chocolate con nuez y almendras, bañado de lechera con fresas'
     },
     {
         id: 2,
         title: 'cake',
-        category: 'desayuno',
+        category: 'postre',
         price: 50,
-        img: './images/cake.jpeg',
+        img: './images/cake2.png',
         desc: 'Pastel de chocolate con nuez y almendras, bañado de lechera con fresas'
     },
     {
@@ -20,7 +20,7 @@ const menu = [
         title: 'cake',
         category: 'comida',
         price: 50,
-        img: './images/cake.jpeg',
+        img: './images/carnes.png',
         desc: 'Pastel de chocolate con nuez y almendras, bañado de lechera con fresas'
     },
     {
@@ -28,7 +28,7 @@ const menu = [
         title: 'cake',
         category: 'comida',
         price: 50,
-        img: './images/cake.jpeg',
+        img: './images/panes.png',
         desc: 'Pastel de chocolate con nuez y almendras, bañado de lechera con fresas'
     },
     {
@@ -36,7 +36,7 @@ const menu = [
         title: 'cake',
         category: 'bebidas',
         price: 50,
-        img: './images/cake.jpeg',
+        img: './images/pastel.png',
         desc: 'Pastel de chocolate con nuez y almendras, bañado de lechera con fresas'
     },
     {
@@ -44,7 +44,7 @@ const menu = [
         title: 'cake',
         category: 'bebidas',
         price: 50,
-        img: './images/cake.jpeg',
+        img: './images/pay.png',
         desc: 'Pastel de chocolate con nuez y almendras, bañado de lechera con fresas'
     },
 ];
